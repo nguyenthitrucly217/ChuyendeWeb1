@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lien he</title>
+    <title>Bai viet</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/ec3be08b3f.js" crossorigin="anonymous"></script>
@@ -26,16 +26,16 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link text-dark me-3" href="index.html">Trang chủ</a>
+                            <a class="nav-link text-dark me-3" href="/">Trang chủ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark me-3" href="product.html">Sản phẩm</a>
+                            <a class="nav-link text-dark me-3" href="san-pham">Sản phẩm</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark me-3" href="post.html">Bài viết</a>
+                            <a class="nav-link text-dark me-3" href="bai-viet">Bài viết</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" href="contact.html">Liên hệ</a>
+                            <a class="nav-link text-dark" href="lien-he">Liên hệ</a>
                         </li>
                     </ul>
                 </div>
@@ -57,63 +57,46 @@
     </div>
     <!--end header-->
 
-
-    <!--Contact-->
+    <!--Post New-->
     <div class="container">
-        <h1 class="text-center text-danger">Liên hệ</h1>
-        <div class="row">
-            <div class="col-md-2 w-50">
-                <div class="mx-2 mb-4">
+        <h2 class="text-center text-danger">Bài viết mới</h2>
+        <div class="card mb-3">
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img src="./assets/img/bg3.jpg" class="img-fluid rounded-start" alt="post">
+                </div>
+                <div class="col-md-8">
                     <div class="card-body">
-                        <div class="span3">
-                            <h4 class="text-primary">TuclieShop</h4>
-                            <p>TuclieShop 50/66a,Đ.79, Phường Phước Long B,Quận 9, TPHCM</p>
-                            <p>Phone: 0836706514</p>
-                            <p>Email: <a href="https://www.free-css.com/free-css-templates">tuclie@gmail.com</a></p>
-                            <p>website: <a href="https://www.free-css.com/free-css-templates">www.tuclie.com</a></p>
-                            <h4 class="text-primary">Liên hệ và góp ý cho TuclieShop</h4>
-                            <form action="">
-                                <div class="mb-3 mt-3">
-                                    <label for="name" class="form-label">Tên:</label>
-                                    <input type="text" class="form-control" id="name" placeholder="Enter name"
-                                        name="name">
-                                </div>
-                                <div class="mb-3 mt-3">
-                                    <label for="email" class="form-label">Email:</label>
-                                    <input type="email" class="form-control" id="email" placeholder="Enter email"
-                                        name="email">
-                                </div>
-                                <div class="mb-3 mt-3">
-                                    <label for="phone" class="form-label">Số điện thoại:</label>
-                                    <input type="text" class="form-control" id="phone" placeholder="Enter phone"
-                                        name="phone">
-                                </div>
-                                <div class="mb-3 mt-3">
-                                    <label for="title" class="form-label">Tiêu đề:</label>
-                                    <input type="text" class="form-control" id="title" placeholder="Enter title"
-                                        name="title">
-                                </div>
-                                <div class="mb-3 mt-3">
-                                    <label for="content" class="form-label">Nội dung:</label>
-                                    <input type="text" class="form-control" id="content" placeholder="Enter content"
-                                        name="content">
-                                </div>
-                                <button type="submit" class="btn btn-primary">Submit</button>
-                            </form>
-                        </div>
+                        <h5 class="card-title">Hoa Tulip</h5>
+                        <p class="card-text">Hoa tulip có tên khoa học là Tulipa, là một loài cây thuộc chi thực vật có
+                            hoa thuộc họ Liliaceae. Ngoài tên gọi Tulip, hoa còn có tên khác là “Uất Kim Cương”, lần đầu
+                            tiên được tìm thấy ở Himalaya (thuộc Nepal ngày nay), sau đó được nuôi trồng ở vùng Trung
+                            Đông, Thổ Nhĩ Kỳ, Iran và hiện nay thì được trồng rộng rãi trên toàn thế giới</p>
+                        <p class="card-text"><small class="text-muted">Cập nhật 7 phút trước</small></p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-2 w-50">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.689413027423!2d106.77104057405433!3d10.83506348931728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175271926ac9251%3A0x5423bb98a562dab8!2zODkvMS82NC8yNCDEkC4gU-G7kSA4LCBUxINuZyBOaMahbiBQaMO6IEIsIFF14bqtbiA5LCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1715201701416!5m2!1svi!2s"
-                        width="100%" height="90%" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    </iframe>
+        </div>
+        <div class="card mb-3">
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img src="./assets/img/bg3.jpg" class="img-fluid rounded-start" alt="post">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Hoa Tulip</h5>
+                        <p class="card-text">Hoa tulip có tên khoa học là Tulipa, là một loài cây thuộc chi thực vật có
+                            hoa thuộc họ Liliaceae. Ngoài tên gọi Tulip, hoa còn có tên khác là “Uất Kim Cương”, lần đầu
+                            tiên được tìm thấy ở Himalaya (thuộc Nepal ngày nay), sau đó được nuôi trồng ở vùng Trung
+                            Đông, Thổ Nhĩ Kỳ, Iran và hiện nay thì được trồng rộng rãi trên toàn thế giới</p>
+                        <p class="card-text"><small class="text-muted">Cập nhật 7 phút trước</small></p>
+                    </div>
+                </div>
             </div>
         </div>
+
     </div>
-    <!--End Contact-->
+    <!--End Post New-->
 
     <!--Footer-->
     <div class="container">
@@ -175,6 +158,7 @@
         </footer>
     </div>
     <!--End Footer-->
+
     <!-- Các phần còn lại của trang web -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

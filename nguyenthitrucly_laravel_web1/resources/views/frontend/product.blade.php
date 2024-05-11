@@ -26,16 +26,16 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link text-dark me-3" href="index.html">Trang chủ</a>
+                            <a class="nav-link text-dark me-3" href="/">Trang chủ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark me-3" href="product.html">Sản phẩm</a>
+                            <a class="nav-link text-dark me-3" href="san-pham">Sản phẩm</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark me-3" href="post.html">Bài viết</a>
+                            <a class="nav-link text-dark me-3" href="bai-viet">Bài viết</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" href="contact.html">Liên hệ</a>
+                            <a class="nav-link text-dark" href="lien-he">Liên hệ</a>
                         </li>
                     </ul>
                 </div>
