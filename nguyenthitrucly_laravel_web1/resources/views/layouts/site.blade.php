@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title')</title>
-    <Link rel="stylesheet" href="{{asset('asset/css/style.css')}}">
+    <!-- <Link rel="stylesheet" href="{{assets('assets/css/main.css')}}"> -->
 
     @yield('header')
 
